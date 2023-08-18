@@ -6,4 +6,4 @@ Check Releases and you will find the module
 
 please support me , I love you ❤️ 
 
-Buy me a coffee : https://www.buymeacoffee.com/ZG089
+Buy me a coffee : <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ZG089" data-color="#40DCA5" data-emoji="🍕"  data-font="Bree" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
