@@ -6,4 +6,5 @@ Check Releases and you will find the module
 
 please support me , I love you ❤️ 
 
-Buy me a coffee : www.buymeacoffee.com/ZG089
+
+<a href="https://www.buymeacoffee.com/ZG089" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
