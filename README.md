@@ -2,7 +2,9 @@
 # Google-Font-Installer
 Magisk module that installs Official Google font on every android device, supports all android versions from 4.2.2 to 13 (note : android 14 not tested)
 
-Check Releases and you will find the module
+Check Releases and you will find the module + source code
+
+wait for new changes in repos + releases 
 
 please support me , I love you ❤️ 
 
